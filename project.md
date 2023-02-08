@@ -12,3 +12,6 @@ ways for by the project:
 
 Thank you 
 website of project : https://egy-173-project.blogspot.com/2023/02/egy-173-project-body-background.html
+
+# Disclaimer_policy:
+I disclaim my responsibility for any harmful use of the project or its use in carrying out electronic crimes punishable by imprisonment and a fine, except by using a proxy and encrypting the connection to the server
